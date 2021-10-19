@@ -20,7 +20,9 @@ The organization of this document probably seems strange. That's because it's pa
 
 #### Ringtail Cat
 
-![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+![Ringtail cat (courtesy of VA Zoo)]
+
+- Can rotate their feet 180 degrees for climbing
 
 #### SHARKS!!!
 
