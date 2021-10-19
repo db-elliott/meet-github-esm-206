@@ -14,7 +14,13 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
+.tabset makes so that the #header the next letter down are separate tabs in html; .tabset-fade makes the tabs fade when switching between them
+
 ### Cool animal fun facts {.tabset .tabset-fade}
+
+#### Ringtail Cat
+
+![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
 
 #### SHARKS!!!
 
